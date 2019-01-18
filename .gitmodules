@@ -1,0 +1,33 @@
+[submodule "chapter2-contact"]
+	path = chapter2-contact
+	url = https://github.com/learning-apache-openwhisk/chapter2-contact
+[submodule "chapter3-api"]
+	path = chapter3-api
+	url = https://github.com/learning-apache-openwhisk/chapter3-api
+[submodule "chapter3-cli"]
+	path = chapter3-cli
+	url = https://github.com/learning-apache-openwhisk/chapter3-cli
+[submodule "chapter4-5-pattern"]
+	path = chapter4-5-pattern
+	url = https://github.com/learning-apache-openwhisk/chapter4-5-pattern
+[submodule "chapter6-debug"]
+	path = chapter6-debug
+	url = https://github.com/learning-apache-openwhisk/chapter6-debug
+[submodule "chapter7-python"]
+	path = chapter7-python
+	url = https://github.com/learning-apache-openwhisk/chapter7-python
+[submodule "chapter8-database"]
+	path = chapter8-database
+	url = https://github.com/learning-apache-openwhisk/chapter8-database
+[submodule "chapter9-crud"]
+	path = chapter9-crud
+	url = https://github.com/learning-apache-openwhisk/chapter9-crud
+[submodule "chapter10-golang"]
+	path = chapter10-golang
+	url = https://github.com/learning-apache-openwhisk/chapter10-golang
+[submodule "chapter11-messages"]
+	path = chapter11-messages
+	url = https://github.com/learning-apache-openwhisk/chapter11-messages
+[submodule "chapter12-deploy"]
+	path = chapter12-deploy
+	url = https://github.com/learning-apache-openwhisk/chapter12-deploy
